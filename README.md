@@ -1,8 +1,8 @@
 # Dutch version  ![Dutch flag](images/nederlands.png) 
 
 
-## Digital twin Loenen
-Dit is een digital twin van het energie systeem in Loenen. De digital twin is bedoeld om inzicht te krijgen in keuzes van individuen op het energiesysteem als geheeld.
+## Digital twin Vruchtenbuurt
+Dit is een digital twin van het energie systeem in Vruchtenbuurt. De digital twin is bedoeld om inzicht te krijgen in keuzes van individuen op het energiesysteem als geheeld.
 
 Zou je zo'n model graag voor jouw eigen buurt, gemeente, provincie, of energiecoöperatie  willen hebben, neem dan contact op en mail naar [naud@zenmo.com](mailto:naud@zenmo.com).
 
@@ -36,8 +36,8 @@ Dit model is ontwikkeld door Naud Loomans als promovendus aan de Technische Univ
 # English version ![English flag](images/engels.png)
 Scroll down or [click this link](https://github.com/ZEnMo/Brabant-buurt-serious-game/blob/main/README.md#dutch-version--) for a Dutch version. ![Dutch flag](images/nederlands.png) 
 
-## Digital twin Loenen
-This is a digital twin of the energy system in the Dutch village Loenen. The twin is aimed at exploring the system effects of inidividual choices in renewable energy technologies.
+## Digital twin Vruchtenbuurt
+This is a digital twin of the energy system in the Dutch neighborhood Vruchtenbuurt. The twin is aimed at exploring the system effects of inidividual choices in renewable energy technologies.
 
 Would you like to work with your own neighborhood, muncipality, province or energy cooperation. Get into contact to discuss the possibilities by mailing to [naud@zenmo.com](mailto:naud@zenmo.com).
 
